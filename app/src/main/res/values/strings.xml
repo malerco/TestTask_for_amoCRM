@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">amoCRM</string>
+    <string name="title">Task for amoCRM</string>
+
+    <string name="email_error">Email cannot be empty</string>
+    <string name="hash_error">HashCode cannot be empty</string>
+</resources>
